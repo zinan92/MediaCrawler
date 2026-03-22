@@ -1,0 +1,4 @@
+pool,source_type,platform,name,handle_or_keyword,url_or_id,category,source_class,account_tier,priority,status,notes
+pool_a_core_jade_accounts,pool_definition,xiaohongshu,Core Jade Accounts,,,,mixed,mixed,1,planned,"Target 30-50 accounts across commercial_conversion, aesthetic_editorial, and young_experimental"
+pool_b_keyword_results,pool_definition,xiaohongshu,Keyword Discovery Pool,,,,mixed,n/a,1,planned,"Target 40-80 grouped keywords across jade, style, material, gifting, and adjacent-category language"
+pool_c_adjacent_category_accounts,pool_definition,xiaohongshu,Adjacent Category Accounts,,,,mixed,mixed,1,planned,"Target 20-30 accounts across 18k_light_jewelry, pearls, colored_gemstones, agarwood_eastern_accessories, and fashion_accessories"
